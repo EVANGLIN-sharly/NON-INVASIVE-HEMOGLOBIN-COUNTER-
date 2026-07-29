@@ -2,6 +2,21 @@
 Building a New Project On Biomedical Instrumentation With Optoelectronics to achive a valid output of getting hemoglobin count of an individual without Lesions.
 
  
+
+PROJECT TITLE & DOMAIN:
+
+ Non-Invasive Hemoglobin Detection (Biomedical & Embedded Systems).
+
+​​HARDWARE USED 
+
+ESP32, 660\text{ nm} / 810\text{ nm} / 940\text{ nm} LEDs, OPT101 Photodiode, LM358 Op-Amp.
+
+​BLOCK DIAGRAM / FLOW: 
+
+
+
+
+
 Non-Invasive-Hemoglobin-Detection
 │
 ├── Hardware/
