@@ -2,7 +2,7 @@
 Building a New Project On Biomedical Instrumentation With Optoelectronics to achive a valid output of getting hemoglobin count of an individual without Lesions.
 
  
-Non-Invasive-Hemoglobin-Detection/
+Non-Invasive-Hemoglobin-Detection
 │
 ├── Hardware/
 │   ├── Schematics/            <-- Circuit diagrams / KiCad / EasyEDA files
